@@ -108,3 +108,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/dff0b11e-465e-466d-97af-96d31d3bacf1)
 
 
+## RESULT:
+Thus the output for the bone fracture detection is done sucessfully.
