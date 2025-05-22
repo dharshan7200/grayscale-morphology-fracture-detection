@@ -20,6 +20,7 @@ It is designed as a simple prototype to process X-ray images, detect possible bo
 
 ## 🧰 Requirements
 
+
 - Python 3.x
 - OpenCV
 - Matplotlib
